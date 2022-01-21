@@ -1,5 +1,7 @@
 # caseBrainn -> https://github.com/brainnco-exs/readme-frontend
 
+# https://curly-lamp.surge.sh/megasena
+
 O objetivo é construir uma aplicação web front-end que mostre os Resultados das Loterias.
 
 A aplicação terá que suportar 6 sorteios: Mega-sena, Quina, Lotofácil, Lotomania, Timemania e Dia de sorte
