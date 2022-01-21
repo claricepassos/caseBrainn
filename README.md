@@ -1,6 +1,6 @@
 # caseBrainn -> https://github.com/brainnco-exs/readme-frontend
 
-# https://curly-lamp.surge.sh/megasena
+# surge -> https://curly-lamp.surge.sh/megasena
 
 O objetivo é construir uma aplicação web front-end que mostre os Resultados das Loterias.
 
